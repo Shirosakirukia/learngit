@@ -1,4 +1,4 @@
 Git is a great software.
 And it's in wonderful uses.
 For everyone.
-Create a new branch is easy!
+Create a new branch is easy and quick!
